@@ -92,9 +92,7 @@ MENUITEMS = (
         ("Liste des mots clés", "/tags")
         ),
         "Consultez les articles de veille technologique que j’ai suivis durant cette année.", "warning"
-    ),
-
-    ("Engagement", "/pages/engagement-etudiant", "people-fill", None, "Présention de mon engagement étudiant.", None),    # Optionnel
+    ),    # Optionnel
 
 )
 
